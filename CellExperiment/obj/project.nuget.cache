@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QVtqqlHeZ3LooceSbeqgK2H63GwCwgGgg92QXYYSao8QHD3hc5W4eU0+ofIyRU2NWbKmi2u3PfTBOtTDlgsUMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SuperPC\\OneDrive\\source\\repos\\CellExperiment\\CellExperiment\\CellExperiment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SuperPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
